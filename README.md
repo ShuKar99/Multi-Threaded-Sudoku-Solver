@@ -11,7 +11,7 @@ Functions:
 - Use the solution button to get the solution of the displayed puzzle
 - Reset to start a new game
 
-![](sudoku.png)
+![](sudoku_play.png)
 
 ![](sudoku_solved.png)
 
